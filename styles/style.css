@@ -1,0 +1,30 @@
+ .banner-corsule-colour {
+    background-color: rgba(238, 110, 110, 0.548);
+}
+
+.rating {
+    width: 20px;
+}
+
+footer {
+    height: 300px;
+    background-color: rgba(11, 13, 23, 1);
+}
+
+.text-link {
+    text-decoration: none;
+    color: white;
+}
+
+.border-z {
+    border: 0;
+}
+
+.bg-footer { 
+    background-color: rgba(11, 13, 23, 1);
+}
+
+.p-footer {
+    font-size: 0.8rem;
+    word-wrap: normal;
+}
